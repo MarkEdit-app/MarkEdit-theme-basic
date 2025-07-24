@@ -2,6 +2,8 @@
 
 [Basic](https://cm6-themes.netlify.app/) theme for [MarkEdit](https://github.com/MarkEdit-app/MarkEdit), built on top of [MarkEdit-theming](https://github.com/MarkEdit-app/MarkEdit-theming).
 
+<img width="344" title="Basic Light" src="https://github.com/user-attachments/assets/f23bc7bf-49df-42fa-92c2-7452e8d0dec0" /> <img width="344" title="Basic Dark" src="https://github.com/user-attachments/assets/45dc0def-1476-4a2b-9650-63eac51f2d8e" />
+
 To customize colors, see [Customization](https://github.com/MarkEdit-app/MarkEdit-theming/wiki#customization) for details.
 
 ## Installation
